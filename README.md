@@ -50,7 +50,7 @@ Computer vision research using CNNs, TensorFlow, Keras, and transfer learning to
 
 ## 🌱 what I'm into
 
-AI agents · cybersecurity · cloud infrastructure · startups · hackathons · software architecture · learning how systems actually work
+AI agents · cybersecurity · cloud infrastructure · software architecture · learning how systems actually work
 
 ---
 
