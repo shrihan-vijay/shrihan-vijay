@@ -10,10 +10,9 @@ Currently working across AI engineering, cybersecurity, and full-stack developme
 
 * AI Engineering Intern @ With.in
 * Cybersecurity Intern @ GuidePoint Security
-* Building **Audia**, a social music discovery platform powered by Spotify data
+* Building **HireReady**, an AI agent powered resume + interview preparation application
 * Exploring AI agents, MCP servers, authentication systems, and agentic workflows
 * Building and securing enterprise lab environments with Active Directory, Windows Server, Kali Linux, WireGuard, and Splunk
-* Studying for the AWS AI Practitioner certification
 * Recruiting for Summer 2027 software engineering, AI, and cybersecurity internships
 
 ---
