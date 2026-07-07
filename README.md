@@ -34,6 +34,9 @@ Currently working across AI engineering, cybersecurity, and full-stack developme
 
 ## 🚀 projects
 
+# HireReady
+An AI resume and interview copilot that turns a job posting into a structured plan instead of just a score. ATS scoring, tailored interview prep with an adaptive mock interviewer, and an application tracker to keep it all moving.
+
 ### Audia
 
 A social music discovery platform where Spotify listening data becomes the basis for real connection. Music profiles, compatibility scores, messaging, forums, and community-driven discovery.
