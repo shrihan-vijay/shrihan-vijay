@@ -8,7 +8,7 @@ Currently working across AI engineering, cybersecurity, and full-stack developme
 
 ## 🔭 currently
 
-* AI Engineering Intern @ With.in
+* AI/ML Engineering Intern @ Idea Nirvana
 * Cybersecurity Intern @ GuidePoint Security
 * Building **HireReady**, an AI agent powered resume + interview preparation application
 * Exploring AI agents, MCP servers, authentication systems, and agentic workflows
