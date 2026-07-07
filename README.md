@@ -65,5 +65,5 @@ lifting weights · exoloring nature · watching football · trying out new recip
 
 ## 📫 reach me
 
-[LinkedIn](https://www.linkedin.com/in/shrihan-vijay-0b5b86313/) • [Portfolio](https://github.com/shrihan-vijay) • [Email](mailto:shrihanvijay06@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shrihan-vijay-0b5b86313/) • [Portfolio](https://shrihan-vijay.vercel.app) • [Email](mailto:shrihanvijay06@gmail.com)
 
