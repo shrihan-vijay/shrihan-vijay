@@ -8,11 +8,11 @@ Currently working across AI engineering, cybersecurity, and full-stack developme
 
 ## 🔭 currently
 
-* AI/ML Engineering Intern @ Idea Nirvana
-* Cybersecurity Intern @ GuidePoint Security
-* Building **HireReady**, an AI agent powered resume + interview preparation application
+* AI Engineering Intern @ Idea Nirvana
+* Cybersecurity Engineer Intern @ GuidePoint Security
+* Building **CodeCartographer**, a codebase graph and cited Q&A tool for large repos
 * Exploring AI agents, MCP servers, authentication systems, and agentic workflows
-* Building and securing enterprise lab environments with Active Directory, Windows Server, Kali Linux, WireGuard, and Splunk
+* Building and securing enterprise lab environments with Terraform, Ansible, Kali Linux, WireGuard, and Splunk
 * Recruiting for Summer 2027 software engineering, AI, and cybersecurity internships
 
 ---
@@ -34,8 +34,13 @@ Currently working across AI engineering, cybersecurity, and full-stack developme
 
 ## 🚀 projects
 
-# HireReady
+### [HireReady](https://hire-ready-sable-pi.vercel.app)
+
 An AI resume and interview copilot that turns a job posting into a structured plan instead of just a score. ATS scoring, tailored interview prep with an adaptive mock interviewer, and an application tracker to keep it all moving.
+
+### [CodeCartographer](https://github.com/shrihan-vijay/codecartographer)
+
+A static-analysis and semantic-search tool that indexes codebases into a symbol/call graph and pgvector-backed semantic chunks, then serves cited natural-language Q&A through an agentic retrieval layer running on a local Ollama/Llama 3.1 model, with no paid API. Also ships a Chrome side-panel extension as a second client.
 
 ### Audia
 
